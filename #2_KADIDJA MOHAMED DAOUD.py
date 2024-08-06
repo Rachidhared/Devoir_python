@@ -1,3 +1,5 @@
+#Exercice_2
+
 def calculer_imc(poids, taille):
     imc = poids / (taille ** 2)
     return round(imc, 2)
