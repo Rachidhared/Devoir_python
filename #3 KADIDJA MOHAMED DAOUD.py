@@ -1,3 +1,5 @@
+#Exercice_3
+
 import re
 def nettoyer_chaine(input_string: str) -> str:
     # Utilise une expression régulière pour garder seulement les caractères alphanumériques
