@@ -1,3 +1,5 @@
+#Exercice_1
+
 import random
 def creer_plateau(n, m):
     # Crée un plateau de n x m avec des '*'
